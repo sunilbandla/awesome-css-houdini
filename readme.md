@@ -1,6 +1,6 @@
 # Awesome CSS Houdini [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome CSS Houdini related things.
+> A curated list of awesome things related to CSS Houdini.
 
 
 ## Contents
